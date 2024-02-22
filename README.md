@@ -1,4 +1,4 @@
-### Olá! Me chamo André
+### Olá, meu nome é André.
 
 
 - 📗 Estudante de ADS
