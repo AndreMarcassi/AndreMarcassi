@@ -1,7 +1,7 @@
 ### Olá! Me chamo André
 
 
-- 📗 Estudande de ADS
+- 📗 Estudante de ADS
 
 ##
 
