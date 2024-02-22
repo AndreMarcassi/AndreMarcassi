@@ -4,8 +4,8 @@
 - Estudande de ADS
 
 <div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=AndreMarcassi&show_icons=true&theme=midnight-purple">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMarcassi&hide_progress=true&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreMarcassi&show_icons=true&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMarcassi&hide_progress=true&theme=midnight-purple">
 </div>
 
 ##
@@ -20,6 +20,6 @@
 ##
 
 <div>
-  <a href=><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a href="mailto:andre.ms.oficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
